@@ -20,5 +20,5 @@ const factorial = memoize(function (x) {
   return x * factorial(x - 1);
 });
 
-console.log(factorial(5));
+console.log(factorial(6));
 console.log(factorial(7));
