@@ -50,6 +50,9 @@ const sortedArrayOfNumbers = [
   49,
 ];
 
+const arrayOfNumbers = [1, 5, 12, 4, 34, 23, 3, 5454, 554, 3];
+
 module.exports = {
   sortedArrayOfNumbers,
+  arrayOfNumbers,
 };

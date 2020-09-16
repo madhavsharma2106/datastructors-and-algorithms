@@ -126,6 +126,7 @@ Array.prototype.flat = function ({ arr, length }) {
   return flattenedArray;
 };
 
+Array.prototype.max = function () {};
 const arr = new Array([1, 2, 3, 4, 5]);
 const arr2 = new Array([6, 7, 8, 9, 10]);
 const arr3 = new Array([99, 1, 2, arr2]);
